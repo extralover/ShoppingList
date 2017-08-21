@@ -1,4 +1,4 @@
-# pomodoro2_2
+# shopping-list
 
 > A Vue.js project
 
